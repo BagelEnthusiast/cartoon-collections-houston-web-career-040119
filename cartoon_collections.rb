@@ -18,7 +18,7 @@ def long_planeteer_calls(calls_long)
   end 
 end
 
-#begin 
+=begin 
 def find_the_cheese(strings)
   if strings.include?("cheddar")
     puts "cheddar"
@@ -32,6 +32,10 @@ def find_the_cheese(strings)
   end
   
 end
+
+=end
+
+def find_the_cheese(strings)
 
 
 puts find_the_cheese(["banana", "cheddar", "sock"])
