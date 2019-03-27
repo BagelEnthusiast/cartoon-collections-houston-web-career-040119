@@ -18,6 +18,7 @@ def long_planeteer_calls(calls_long)
   end 
 end
 
+#begin 
 def find_the_cheese(strings)
   if strings.include?("cheddar")
     puts "cheddar"
