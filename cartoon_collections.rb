@@ -36,7 +36,7 @@ end
 =end
 
 def find_the_cheese(strings)
-  
+  cheese_types = ["cheddar", "gouda", "camembert"]
   i = 0
   while 
 
