@@ -42,4 +42,4 @@ def find_the_cheese(strings)
   end 
 end
 
-puts find_the_cheese(["banana", "cheddar", "sock"])
+puts find_the_cheese(["banana", "boat", "sock"])
