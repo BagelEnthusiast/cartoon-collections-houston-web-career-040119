@@ -40,5 +40,6 @@ def find_the_cheese(strings)
   strings.find do |ingredient|
     cheese_types.include?(ingredient)
   end 
+end
 
 puts find_the_cheese(["banana", "cheddar", "sock"])
