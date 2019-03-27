@@ -36,6 +36,9 @@ end
 =end
 
 def find_the_cheese(strings)
+  
+  i = 0
+  while 
 
 
 puts find_the_cheese(["banana", "cheddar", "sock"])
